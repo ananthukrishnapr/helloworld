@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config
+    linePaint.strokeWidth="1dp"
+    linePaint.color="#AAAA00"
+    fillPaint.color="#00000000" />
+<!-- From: file:/C:/Users/Philip%20Go/Desktop/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/src/main/res/xml/line_point_formatter_with_plf4.xml -->
